@@ -6,7 +6,7 @@ const prefix = '$'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Thê Húntèrs SyStem | $help`,"http://twitch.tv/S-F")
+client.user.setGame(`By 𝒮ℋ𝒜𝒟𝒪𝒲| $help`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -241,7 +241,7 @@ client.on('message', message =>{
 
 
 
-client.on ('message', Sal => { //By Salto7#4595
+client.on ('message', Sal => { //By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
   if (Sal.content ===  'الله يلعن امك') { 
     Sal.reply('لا تسب').then(sb => {  
     Sal.delete(30)
@@ -251,7 +251,7 @@ client.on ('message', Sal => { //By Salto7#4595
   }
 });
 
-client.on ('message', Sal => { //By Salto7#4595
+client.on ('message', Sal => { //By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
   if (Sal.content ===  'كل خرا') { 
     Sal.reply('لا تسب').then(sb => {  
     Sal.delete(30)
@@ -261,7 +261,7 @@ client.on ('message', Sal => { //By Salto7#4595
   }
 });
 
-client.on ('message', Sal => { //By Salto7#4595
+client.on ('message', Sal => { //By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
   if (Sal.content ===  'كل زق') { 
     Sal.reply('لا تسب').then(sb => {  
     Sal.delete(30)
@@ -271,7 +271,7 @@ client.on ('message', Sal => { //By Salto7#4595
   }
 });
 
-client.on ('message', Sal => { //By Salto7#4595
+client.on ('message', Sal => { //By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
   if (Sal.content ===  'كس امك') { 
     Sal.reply('لا تسب').then(sb => {  
     Sal.delete(30)
@@ -281,7 +281,7 @@ client.on ('message', Sal => { //By Salto7#4595
   }
 });
 
-client.on ('message', Sal => { //By Salto7#4595
+client.on ('message', Sal => { //By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
   if (Sal.content ===  'الله يلعن ابوك') { 
     Sal.reply('لا تسب').then(sb => {  
     Sal.delete(30)
@@ -294,7 +294,7 @@ client.on ('message', Sal => { //By Salto7#4595
 
 
 
-client.on ('message', Sal => { //By Salto7#4595
+client.on ('message', Sal => { //By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
   if (Sal.content ===  'يابن الشروموطه') { 
     Sal.reply('لا تسب').then(sb => {  
     Sal.delete(30)
@@ -307,7 +307,7 @@ client.on ('message', Sal => { //By Salto7#4595
 
 
 
-client.on ('message', Sal => { //By Salto7#4595
+client.on ('message', Sal => { //By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
   if (Sal.content ===  'يايبن المتناكه') { 
     Sal.reply('لا تسب').then(sb => {  
     Sal.delete(30)
@@ -762,7 +762,7 @@ client.on('message', message => {
 
       .setColor("RANDOM")
 .setDescription(`
- 
+ By 𝒮ℋ𝒜𝒟𝒪𝒲#8685
 ╔[❖════════════❖]╗
 Prefix   =    ' $ '
 ╚[❖════════════❖]╝
@@ -796,10 +796,10 @@ General  ✻ Commands
 ❖ $say ➾ for Repeat your words whith bot // بوت يكرر كلامك
 ❖ $اقتراح ➾ to make suggestion //لكي تسوي اقتراح
 ==================================================================
-Server support : dont have
+Server support : https://discord.gg/RzEz8Ad
 ==================================================================
-bot invite link : Private
-❤ By ❤  :<@510520286488035339>
+bot invite link : https://discordapp.com/api/oauth2/authorize?client_id=523210468081401856&permissions=8&scope=bot
+❤ By ❤  :<@318705077734998017>
 ==================================================================
 `);
   message.author.send({embed});
