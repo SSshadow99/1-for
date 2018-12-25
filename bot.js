@@ -793,12 +793,7 @@ General  ✻ Commands
 ❖ $image ➾ To view the image server // تشوف صوره السيرفر
 ❖ $bot ➾ To see bot information // عشان تشوف معلومات البوت
 ❖ $server ➾ To see the server information // لتري معلومات السيرفر
-❖ $say ➾ for Repeat your words whith bot // بوت يكرر كلامك
-❖ $اقتراح ➾ to make suggestion //لكي تسوي اقتراح
-==================================================================
-Server support : https://discord.gg/RzEz8Ad
-==================================================================
-bot invite link : https://discordapp.com/api/oauth2/authorize?client_id=523210468081401856&permissions=8&scope=bot
+
 ❤ By ❤  :<@318705077734998017>
 ==================================================================
 `);
